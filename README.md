@@ -57,3 +57,7 @@ After preprocessing, the data is split into training (80%) and testing (20%) set
 * **Model:** Gradient Boosting Classifier (`n_estimators=50`, `max_depth=1`)
 * **Test Accuracy:** 78.59%
 * **Test AUC:** 0.86
+###ScreenShots
+<img width="2209" height="1027" alt="image" src="https://github.com/user-attachments/assets/30f0fc4c-a28f-4b6b-8603-6cb523337406" />
+<img width="2224" height="931" alt="image" src="https://github.com/user-attachments/assets/3a4676b1-8de2-48bc-9901-afa9dda1b978" />
+<img width="2228" height="1165" alt="image" src="https://github.com/user-attachments/assets/ff9cde07-29a0-46ae-95b3-8d379eec9b12" />
